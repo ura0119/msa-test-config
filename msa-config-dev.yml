@@ -1,2 +1,2 @@
 msa:
-  dev: msa-jedagi-dev config test
+  profile_active: dev config test
